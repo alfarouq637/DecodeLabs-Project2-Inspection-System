@@ -54,9 +54,13 @@ Kai Zhou, Jiong Tang: For the concept and inspiration behind the FFT/Spectral Si
 ## 🚀 How to Run
 
 1. Clone the repository and install requirements:
+   
 ```powershell
   pip install -r requirements.txt
+
 2. Run the Inference Dashboard (Ensure you have downloaded the weights gear_cnn_hd.npz and some test images in gear_data/unlabeled):
+
+```powershell
   python main.py --load-model gear_cnn_hd.npz --epochs 0 --image-size 96 --infer-dir gear_data/unlabeled
 
 
