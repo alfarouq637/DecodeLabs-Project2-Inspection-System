@@ -56,7 +56,6 @@ python main.py --load-model gear_cnn_hd.npz --epochs 0 --image-size 96 --infer-d
 
 DecodeLabs: For the internship opportunity and the classical CV pipeline baseline.
 
-Kai Zhou,Jiong Tang: For the concept and inspiration behind the FFT/Spectral Signal analysis module.
+Kai Zhou, Jiong Tang: For the concept and inspiration behind the FFT/Spectral Signal analysis module.
 (https://data.mendeley.com/datasets/87y47nvsf4/1)
-
 
