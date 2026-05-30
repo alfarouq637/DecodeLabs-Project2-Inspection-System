@@ -44,12 +44,7 @@ Due to the lack of high-fidelity industrial datasets, a custom Python script was
 * `METHODOLOGY_AND_ARCHITECTURE.md`: Formal academic documentation of the architecture.
 * `gear_data/`: The generated dataset (Not fully uploaded due to size limits. Use `--prepare-data` to initialize).
 
-## 🙏 Credits
-
-DecodeLabs: For the internship opportunity and the classical CV pipeline baseline.
-
-Kai Zhou, Jiong Tang: For the concept and inspiration behind the FFT/Spectral Signal analysis module.
-(https://data.mendeley.com/datasets/87y47nvsf4/1)
+Dataset Link: https://www.kaggle.com/datasets/alfarouqibrahim/decodlabes-project-2-gear-dataset
 
 ## 🚀 How to Run
 
@@ -60,6 +55,14 @@ pip install -r requirements.txt
 **2. Run the Inference Dashboard (Ensure you have downloaded the weights gear_cnn_hd.npz and some test images in gear_data/unlabeled):**
 
 python main.py --load-model gear_cnn_hd.npz --epochs 0 --image-size 96 --infer-dir gear_data/unlabeled
+
+
+## 🙏 Credits
+
+DecodeLabs: For the internship opportunity and the classical CV pipeline baseline.
+
+Kai Zhou, Jiong Tang: For the concept and inspiration behind the FFT/Spectral Signal analysis module.
+(https://data.mendeley.com/datasets/87y47nvsf4/1)
 
 
 
