@@ -11,7 +11,7 @@
 [![Watch the system in action](<img width="1672" height="941" alt="ChatGPT Image May 30, 2026, 12_46_28 PM" src="https://github.com/user-attachments/assets/b30f2bb7-d152-4a19-ae9d-df41371ca2c5" />
 )](https://youtu.be/akEHXhRGcZo)
 
-
+Dataset Link: https://www.kaggle.com/datasets/alfarouqibrahim/decodlabes-project-2-gear-dataset
 
 ## 📌 Project Overview
 This project is an advanced Edge-AI research prototype developed during the **DecodeLabs Robotics & Automation Internship**. The objective is to automate the inspection of mechanical gears on an assembly line, detecting structural defects (like broken teeth) with high industrial reliability.
@@ -43,8 +43,6 @@ Due to the lack of high-fidelity industrial datasets, a custom Python script was
 * `fusion_coordinator.py`: The late-fusion logic combining CNN and FFT probabilities.
 * `METHODOLOGY_AND_ARCHITECTURE.md`: Formal academic documentation of the architecture.
 * `gear_data/`: The generated dataset (Not fully uploaded due to size limits. Use `--prepare-data` to initialize).
-
-Dataset Link: https://www.kaggle.com/datasets/alfarouqibrahim/decodlabes-project-2-gear-dataset
 
 ## 🚀 How to Run
 
