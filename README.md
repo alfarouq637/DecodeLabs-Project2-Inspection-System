@@ -1,6 +1,7 @@
 # DecodeLabs Robotics & Automation Internship - PROJECT 2 ⚙️
 
-<img width="1672" height="941" alt="ChatGPT Image May 30, 2026, 12_46_28 PM" src="https://github.com/user-attachments/assets/7a40bb6e-6e02-47af-b76b-203ba2ad2d55" />(https://youtu.be/akEHXhRGcZo)
+[(<img width="1672" height="941" alt="ChatGPT Image May 30, 2026, 12_46_28 PM" src="https://github.com/user-attachments/assets/b30f2bb7-d152-4a19-ae9d-df41371ca2c5" />
+)](https://youtu.be/akEHXhRGcZo)
 
 
 **Developer:** Alfarouq Ibrahim | Robotics & Automation Intern  
