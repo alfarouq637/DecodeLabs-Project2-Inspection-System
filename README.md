@@ -24,7 +24,7 @@ Instead of relying solely on classical Computer Vision (which is sensitive to li
 Built a Convolutional Neural Network entirely from scratch using **NumPy**. It handles forward propagation, backpropagation, and cross-entropy loss without relying on heavy frameworks like PyTorch or TensorFlow, making it highly optimized for Edge-devices.
 
 ### 2. Geometric Sonification (FFT Signal AI)
-Inspired by **[Insert Name Here]**, the system includes a data-independent physical engine. It extracts the gear's outer contour, unrolls it into a 1D signal, and uses **Fast Fourier Transform (FFT)** to detect harmonic distortions caused by broken teeth.
+Inspired by **Kai Zhou, Jiong Tang**, the system includes a data-independent physical engine. It extracts the gear's outer contour, unrolls it into a 1D signal, and uses **Fast Fourier Transform (FFT)** to detect harmonic distortions caused by broken teeth.
 
 ### 3. Explainable Late Fusion (XAI Dashboard)
 The system doesn't act as a black box. It features a custom green-terminal dashboard that displays three independent evaluations:
